@@ -192,4 +192,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 
 ## 👤 Author
 
-Your Name - [@your_github](https://github.com/your-username)
+Your Name - [@maxjneto](https://github.com/maxjneto)
